@@ -1,2 +1,3 @@
 ## Nothing but a Number
 #### Week 3
+In this last week of images, I left out one poster by accident, but my overall goal was to add another variable to the image and incorporate typography. I also tried to combine some of the retinol variables and use color to create a legend within the image. The feed back I received was very helpful in how to represent two pieces of data within the same poster as well as how to use typography more effectively. 
