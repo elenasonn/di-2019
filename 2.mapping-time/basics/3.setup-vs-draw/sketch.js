@@ -26,5 +26,5 @@ function draw() {
 
   // draw a square in the center of screen, using the 'length' variable to set its dimensions.
   // ('width' & 'height' are automatic variables based on our createCanvas args)
-  rect(width/2, height/2, length, length);
+  rect(width/2, height/2, length, 50);
 }
